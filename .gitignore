@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+workspace/
+*.parquet
+*.xlsx
+*.csv
+*.zip
+scale_report.json
+.env
+deploy/certs/*.key
+deploy/certs/*.crt
